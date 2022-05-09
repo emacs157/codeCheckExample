@@ -1,0 +1,13 @@
+.appBar-toolbar {
+	background-color: #39AEAE;
+}
+
+.title-button {
+	line-height: 1 !important;
+}
+
+.titleClass {
+	font-size: 30px;
+	font-weight: 600;
+	color: white;
+}
